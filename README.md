@@ -1,7 +1,7 @@
 # python-package-sphinx-template
 python-package-sphinx-template
 
-### youtube video :
+### youtube video : https://youtu.be/5s3JvVqwESA
 
 ##### Step 1:
 ```
